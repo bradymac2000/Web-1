@@ -1,0 +1,73 @@
+body {
+    background-color:antiquewhite
+}
+
+.directory-title {
+    color: brown
+}
+
+.directory {
+    color: #82ad32
+}
+
+h2 {
+   font-size: 20px 
+}
+
+ .type1{
+     @font-face{ font-family: custom font; 
+     src: url(fonts/Alpha-Medium.otf);}
+    
+    font-size: 30px
+}
+
+.type2{
+    @font-face{font-family: custom font;
+    src: url(fonts/Butcherman-Regular.ttf);}
+    
+    font-weight: 600
+}
+
+.type3{
+    @font-face font-family: custom font;
+    src: url(fonts/Celtica-Book.ttf);
+    
+    letter-spacing: 5px
+}
+
+.type4{
+    @font-face font-family: custom font;
+    src: url(fonts/contm.ttf);
+    
+    line-height: 4.0
+}
+
+.type5{
+    @font-face   font-family: custom font;
+    src: url(fonts/Frutiger.ttf);
+  
+}
+
+.type6{ @font-face   font-family: custom font;
+    src: url(fonts/JollyLodger-Regular.ttf);
+  
+}
+
+.type7{ @font-face     font-family: custom font;
+    src: url(fonts/Kablammo-Regular-VariableFont_MORF.ttf);
+
+}
+
+.type8{ @font-face     font-family: custom font;
+    src: url(fonts/Rye-Regular.ttf);
+
+}
+
+.type9{ @font-face     font-family: custom font;
+    src: url(fonts/Seagram%20tfb.ttf);
+
+}
+
+.type10{
+    text-align-last: right
+}
