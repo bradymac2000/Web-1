@@ -1,0 +1,62 @@
+
+body {
+    background-color:antiquewhite
+}
+
+.directory-title {
+    color: brown
+}
+
+.directory {
+    color: #82ad32
+}
+
+h2 {
+   font-size: 20px 
+}
+
+ .type1{  font-family: "Ewert", serif;
+    
+    
+    font-size: 30px
+}
+
+.type2{ font-family: "Splash", cursive;
+
+      font-weight: 600
+}
+
+.type3{ font-family: "UnifrakturMaguntia", serif;
+   
+    
+    letter-spacing: 5px
+}
+
+.type4{ font-family: "Rye", serif;
+  
+    line-height: 4.0
+}
+
+.type5{ font-family: "Rubik Puddles", serif;
+    
+  
+}
+
+.type6{ font-family: "Kablammo", serif;
+  
+}
+
+.type7{ font-family: "Jolly Lodger", serif;
+}
+
+.type8{ font-family: "Butcherman", serif;
+
+}
+
+.type9{ font-family: "Barriecito", serif;
+
+}
+
+.type10{
+    text-align-last: right
+}
