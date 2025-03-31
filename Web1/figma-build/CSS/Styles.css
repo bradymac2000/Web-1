@@ -1,0 +1,240 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    font-family: "Aoboshi One", serif;
+    font-size: 64px;
+}
+
+h2{
+     font-family: "Aoboshi One", serif;
+    font-size:32px;
+}
+
+h3{
+     font-family: "Aoboshi One", serif;
+    font-size: 20px;
+}
+
+
+header{
+    display: flex;
+    padding: 40px 60px;
+    align-items: center;
+    background-color: #FFFFFF
+}
+
+.left-items{
+    width: 100%;
+}
+
+.logo{
+    width:127px;
+    Height:40px;
+}
+
+.right-items{
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+    gap: 24px;
+    width: 100%;
+}
+
+/* Hero Banner */
+.hero{
+    display:flex;
+    flex-direction: column;
+    gap: 16px;
+    justify-content: center;
+    align-content: center;
+    height:548px;
+    padding:0 16px;
+    background-image: url(../Assets/banners/hero-bg.jpg);
+    background-size:cover;
+    color: #FFFFFF;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.button{
+    padding: 8px 24px;
+    margin-left: 475px;
+    margin-right: 475px;
+    background-color: #ffC900;
+    text-decoration: none;
+    font-family: "Inter", serif;
+    font-weight: 500px;
+    font-size: 25px;
+}
+
+/* Body */
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 16px;
+    white-space:5px;
+    align-items: center;
+    padding: 8px 150px;
+    padding-bottom: none;
+    margin-right: 71px;
+    margin-left: 70px;
+}
+
+.new-arrivals {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.viewall{
+    font-size: larger;
+        font-family:"inter", sans-serif;
+}
+
+.photos{
+display:flex;
+flex-direction: row;
+    gap: 30px;
+    margin-bottom: 35px;
+    margin-top: 20px
+    
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    font-family:"inter", sans-serif;
+}
+
+.description{
+    padding-top: 16px;
+    padding-bottom: 12px;
+}
+
+.sale-banner {
+    background-image: url(../Assets/banners/sale-bg.jpg);
+
+    align-content: center;
+    background-size: cover;
+    align-items: left;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+    padding-bottom: 170px;
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+}
+
+.banner-text{
+    padding-left: 35px;
+    padding-top: 50px;
+}
+
+.deals{
+    font-family: "Aoboshi One", serif;
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.hurry{
+    font-family:"inter", sans-serif;
+    letter-spacing: 1.5px;
+        margin-top: 4px;
+}
+
+.button-2{
+    padding: 8px 24px;
+    margin-right: 649px;
+    margin-top: 12px;
+    background-color: #000000;
+    text-decoration: none;
+    color: #ffC900;
+    font-family: "Inter", serif;
+    font-weight: 500px;
+    font-size: 25px;
+}
+
+.shop-now{
+    font-family:"inter", sans-serif;
+}
+
+.footer{
+    color: white;
+    background-color: black;
+    display:flex;
+    flex-direction: row;
+    align-content: space-between;
+    gap: 16px;
+    justify-content: space-between;
+    padding: 70px 50px;
+    padding-bottom: 200px;
+}
+
+.left{
+    display: flex;
+    flex-direction: column;
+}
+
+.logo-light{
+    display: flex;
+    flex-direction: column;
+}
+
+.copyright{
+    font-family:"inter", sans-serif;
+    padding-top: 12px;
+  display: flex;
+flex-direction: column;
+    
+}
+
+.right{
+    display:flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.about{
+    font-family:"inter", sans-serif;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.quick{
+    font-family:"inter", sans-serif;
+    display:flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.bold{
+    font-family:"inter", sans-serif;
+    font-weight: 800;
+}
+
+.title{
+    font-family:"inter", sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.social{
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+        padding-top: 12px;
+}

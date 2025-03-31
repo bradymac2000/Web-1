@@ -1,0 +1,99 @@
+.yellow-container{
+    background-color: yellow;
+    align-content: center;
+    width: 600px;
+    height: 1000px;
+}
+
+.green-container{
+    display: inline-block;
+    background-color: green;
+    width: 525px;
+    height: 200px;
+    margin: 20px 50px auto;
+}
+
+.cyan-container{
+    display: inline-block;
+    text-align: center;
+    background-color: aqua;
+        width: 150px;
+        height: 150px;
+    margin: 25px 25px auto;
+}
+
+.tan-container{
+    text-align: center;
+    background-color: tan;
+    width: 150px;
+        height: 150px;
+    margin: 25px 25px auto;
+    float: right;
+}
+
+
+.grey-container{
+    display: inline-block;
+    background-color: cadetblue;
+        width: 525px;
+    height: 375px;
+    margin: 25px 50px auto;
+}
+
+.ivory-container{
+    display: inline-block;
+    background-color: antiquewhite;
+    text-align: center;
+        height:150px;
+    width: 150px;   
+    margin: 25px 25px auto;
+}
+
+.black-container{
+    color: white;
+    text-align: center;
+    background-color: black;
+        height: 150px;
+            width:150px;
+    float: right;
+    margin-right: 25px;
+    margin-top: 25px;
+}
+
+.orange-container{
+    display:inline-block;
+    background-color:darkorange;
+    height: 150px;
+    width:475px;
+ text-align: center;
+    margin-left: 25px;
+    margin-top: 25px;
+    
+}
+
+.brown-container{
+    color: white;
+    display: inline-block;
+    background-color: brown;
+    height:275px;
+    width: 525px;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+.purple-container{
+    color: white;
+    background-color: darkmagenta;
+    text-align: center;
+        height: 150px;
+    width: 150px;
+    float: left;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 10px;
+}
+
+.text{
+    margin-left: 25px;
+}

@@ -1,0 +1,33 @@
+h1 {
+   color: brown;
+}
+
+.count-orlock {
+    margin: 40px;    
+}
+
+body{
+    background-color: #7c7676
+}
+
+.container1{
+    display: inline-block;
+    background-color: brown;
+}
+
+.greencontainer{
+    display: inline-block;
+    background-color: green;
+        width:  120px;
+    height: 120px;
+    margin: 20px;   
+}
+
+.bluecontainer{
+    display: inline-block;
+    background-color: dodgerblue;
+    height: 120px;
+    width: 120px;
+    margin: 20px;
+    float:inline-end;
+}

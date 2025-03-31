@@ -1,0 +1,67 @@
+.frame{
+ display: flex;
+ padding: 120px 16px;
+ flex-direction: column;
+ width: 100%;
+ max-width: 1440px;
+ align-content: center;
+ text-align: center;
+ justify-content: center;
+}
+
+.header{
+  font-family: "Manrope" , sans-serif;
+ font-size: 42;
+}
+
+.blurb{ font-size: 22px;
+}
+
+.large-badge{
+ color: white;
+ background-color: black;
+ font-size: 18px;
+ border: 1px solid;
+ width: fit-content;
+ border-radius: 50px;
+ padding: 16px 36px;
+}
+
+
+.frame-2{
+    background-color: #fbfaf3;
+    display: flex;
+    padding: 120px 16px;
+    flex-direction: row;
+}
+
+ .flower{
+    width: 463px;
+     height: 435px;
+    
+}
+
+.inner-frame{
+ width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 1078px;
+}
+
+.badge{
+     font-size: 12px;
+    padding: 5px 10px;
+    border: 1px solid;
+    border-radius: 20px;
+    width: fit-content;
+}
+
+.text{
+width: 441px; 
+}
+
+p{
+     font-family: "Manrope" , sans-serif;
+    font-size: 35px;
+}

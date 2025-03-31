@@ -1,0 +1,56 @@
+.yellow-container{
+    background-color: yellow;
+    align-content: center;
+    width: 600px;
+    height: 2000px;
+    border: 4px solid #ff0000
+    
+}
+
+.image-1{
+    background-image: url(dog.jpg);
+        width: 450px;
+            height: 300px;
+    margin-left: 75px;
+    margin-top: 120px
+}
+
+.image-2 {
+    background-image: url(dog.jpg);
+    background-size: 200px;
+    width:450px;
+    height: 300px;
+    margin-left: 75px;
+    margin-top: 75px;
+}
+
+.image-3 {
+    background-image: url(dog.jpg);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: brown;
+        width: 450px;
+    height: 300px;
+    margin-top: 75px;
+    margin-left: 75px;
+}
+
+.dog4 {
+ object-position: center;
+    width: 450px;
+    height: 300px;
+    margin-left: 75px;
+    margin-top: 75px;
+}
+
+.dog5 {
+    margin: auto;
+     width: 450px;
+    height: 300px;
+    margin-left: 75px;
+    margin-top: 75px;
+    object-fit: contain;
+    object-position: bottom;
+    background-color: red
+}
