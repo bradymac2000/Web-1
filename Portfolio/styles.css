@@ -1,0 +1,86 @@
+body{
+   font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+    font-style: normal;}
+
+.nav-bar{
+    display: flex;
+    background-color: #7F9FA3;
+    height: 165px;
+    width: 1440px;
+    color: white;
+    text-align-last: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.link{
+    align-content: center;
+}
+
+.about{
+    display: flex;
+    background-color: #236273;
+        height: 688px;
+    width: 1440px;
+    color: white;
+    align-content: center;
+    justify-content: center;
+}
+
+.description{
+    text-align: center;
+ align-content: center;
+     max-width: 400px
+}
+
+.dracula{
+    width: 1440px;
+    height: 688px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 250px;
+}
+
+.book-cover{
+    width: 373px;
+}
+
+.theatre{
+    background-color: #236273;
+    color: white;
+    display: flex;
+    height: 802px;
+    width:1440px;
+    justify-content: center;
+    align-items:center;
+    gap: 250px;
+}
+
+.ashes{
+    width: 391px;
+}
+
+.clash{
+    display: flex;
+    height: 802px;
+    width:1440px;
+    justify-content: center;
+    align-items: center;
+    gap: 250px;
+}
+
+.kings{
+    width: 251px;
+}
+
+/* Mobile View */
+
+@media only screen and (max-width: 745px){
+    .dracula, .clash, .theatre, .about, .nav-bar{
+        gap: 75px;
+        max-width: 745px;
+    } 
+}
+
